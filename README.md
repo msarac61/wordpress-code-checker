@@ -10,9 +10,3 @@ Installation
 2. Activate the plugin through the \'Plugins\' menu in WordPress
 3. Use Shortcode [wcchecker]
 4. Ready !
-
-Frequently Asked Questions
-
-This Plugin Shortcode?
-
-[wcchecker]
