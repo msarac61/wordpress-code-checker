@@ -1,21 +1,22 @@
 <?php 
 
 	/**
-	 * @link              https://metinsarac.net/
-	 * @since           1.0.0
+	 * @link         https://metinsarac.net/
+	 * @since        1.0.0
 	 * @package      Wordpress_Code_Checker
 	 *
 	 * @wordpress-plugin
-	 * Plugin Name:     Wordpress Code Checker
-	 * Plugin URI:        https://metinsarac.net/wcc-test/
-	 * Description:       Wordpress - Code Checker
-	 * Version:            1.0.0
-	 * Author:              Metin Saraç
-	 * Author URI:        https://metinsarac.net/
-	 * License:            GPL-3.0+
-	 * License URI:      http://www.gnu.org/licenses/gpl-3.0.txt
-	 * Text Domain:      wcchecker
-	 * Domain Path:      /languages
+	 *
+	 * Plugin Name:  Wordpress Code Checker
+	 * Plugin URI:   https://metinsarac.net/wcc-test/
+	 * Description:  Wordpress - Code Checker
+	 * Version:      1.0.0
+	 * Author:       Metin Saraç
+	 * Author URI:   https://metinsarac.net/
+	 * License:      GPL-3.0+
+	 * License URI:  http://www.gnu.org/licenses/gpl-3.0.txt
+	 * Text Domain:  wcchecker
+	 * Domain Path:  /languages
 	*/
 
 // If this file is called directly, abort.
