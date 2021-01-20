@@ -1,6 +1,6 @@
 <?php
 
-	// Config Metabox
+	// Config Wcc Metabox
 
 	function wccheckerMetaBox() {
 
@@ -16,7 +16,7 @@
 
 	add_action( 'add_meta_boxes', 'wccheckerMetaBox' );
 
-	// Create Metabox Input
+	// Create Wcc Metabox Input
 
 	function wccheckerMetaBox_callback( $post ) {
 
@@ -38,7 +38,7 @@
 
 	}
 
-	// Metabox Field Update
+	// Metabox Wcc Field Update
 
 	function wccheckerMetaBox_update( $post_id ) {
 
