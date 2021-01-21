@@ -137,12 +137,12 @@ function wccheckerDemoContent() {
 				<tr>
 					<th><label for="code_length"><?php esc_html_e( 'Code Type', 'wcchecker' ); ?></label></th>
 					<td>
-					<select name="code_type" required>
-						<option value="alpha"><?php esc_html_e( 'Alphabetical Only', 'wcchecker' ); ?></option>
-						<option value="alnum"><?php esc_html_e( 'Alphabetical + Numeric', 'wcchecker' ); ?></option>
-						<option value="numeric"><?php esc_html_e( 'Numeric Only', 'wcchecker' ); ?></option>
-						<option value="nozero"><?php esc_html_e( 'Numeric Only (No Zero)', 'wcchecker' ); ?></option>
-					</select>
+						<select name="code_type" required>
+							<option value="alpha"><?php esc_html_e( 'Alphabetical Only', 'wcchecker' ); ?></option>
+							<option value="alnum"><?php esc_html_e( 'Alphabetical + Numeric', 'wcchecker' ); ?></option>
+							<option value="numeric"><?php esc_html_e( 'Numeric Only', 'wcchecker' ); ?></option>
+							<option value="nozero"><?php esc_html_e( 'Numeric Only (No Zero)', 'wcchecker' ); ?></option>
+						</select>
 					</td>
 				</tr>
 
