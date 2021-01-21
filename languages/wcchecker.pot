@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Wordpress Code Checker\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-01-20 08:49+0000\n"
+"POT-Creation-Date: 2021-01-21 11:13+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: \n"
@@ -16,6 +16,14 @@ msgstr ""
 "X-Loco-Version: 2.5.0; wp-5.6\n"
 "X-Domain: wcchecker"
 
+#: inc/functions.php:142
+msgid "Alphabetical + Numeric"
+msgstr ""
+
+#: inc/functions.php:141
+msgid "Alphabetical Only"
+msgstr ""
+
 #: admin/admin.php:166
 msgid "Check"
 msgstr ""
@@ -24,13 +32,33 @@ msgstr ""
 msgid "Check Button Text"
 msgstr ""
 
-#: inc/functions.php:13
+#: inc/functions.php:47
 msgid ""
 "Click Install Demo Button, then wait. After the installation process is "
 "complete, the demo content will be added to your panel."
 msgstr ""
 
-#: inc/functions.php:46
+#: inc/functions.php:128
+msgid "Code Length"
+msgstr ""
+
+#: inc/functions.php:133
+msgid "Code Quantity"
+msgstr ""
+
+#: inc/functions.php:138
+msgid "Code Type"
+msgstr ""
+
+#: inc/functions.php:117
+msgid "Codes Created Successfully."
+msgstr ""
+
+#: inc/functions.php:151
+msgid "Create"
+msgstr ""
+
+#: inc/functions.php:80
 msgid "Demo installation completed successfully."
 msgstr ""
 
@@ -46,6 +74,10 @@ msgstr ""
 msgid "Expire Date Text"
 msgstr ""
 
+#: inc/functions.php:94
+msgid "Generate Random Code"
+msgstr ""
+
 #. Author URI of the plugin
 msgid "https://metinsarac.net/"
 msgstr ""
@@ -58,16 +90,24 @@ msgstr ""
 msgid "Incorrect Result Text"
 msgstr ""
 
-#: inc/functions.php:56
+#: inc/functions.php:90
 msgid "Install"
 msgstr ""
 
-#: inc/functions.php:11 admin/admin.php:77 admin/admin.php:78
+#: inc/functions.php:45 admin/admin.php:77 admin/admin.php:78
 msgid "Install Demo"
 msgstr ""
 
 #. Author of the plugin
 msgid "Metin Saraç"
+msgstr ""
+
+#: inc/functions.php:143
+msgid "Numeric Only"
+msgstr ""
+
+#: inc/functions.php:144
+msgid "Numeric Only (No Zero)"
 msgstr ""
 
 #: admin/admin.php:195
@@ -90,6 +130,10 @@ msgstr ""
 #: inc/post-type.php:15
 msgctxt "Post Type Singular Name"
 msgid "Security Code(s)"
+msgstr ""
+
+#: inc/functions.php:96
+msgid "Random Code Generation According to Your Criteria."
 msgstr ""
 
 #: admin/admin.php:158
@@ -133,10 +177,10 @@ msgstr ""
 msgid "wcChecker"
 msgstr ""
 
-#. Description of the plugin
-msgid "Wordpress - Code Checker"
-msgstr ""
-
 #. Name of the plugin
 msgid "Wordpress Code Checker"
+msgstr ""
+
+#. Description of the plugin
+msgid "Wordpress Secure Code Control System & Wordpress Security Code Checker"
 msgstr ""
