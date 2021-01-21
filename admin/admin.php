@@ -77,7 +77,7 @@ if ( ! class_exists( 'wccheckerAdmin' ) ) {
 				esc_html__( 'Install Demo', 'wcchecker' ),
 				esc_html__( 'Install Demo', 'wcchecker' ),
 				'manage_options',
-				'theme-op-settings',
+				'install_demo',
 				'wccheckerDemoContent'
 			);
 		}
