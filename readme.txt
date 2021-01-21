@@ -29,6 +29,9 @@ Live Preview : https://metinsarac.net/wcc-test/
 
 == Changelog ==
 
+= 1.1.1 =
+* Added Automatic Code Generator.
+
 = 1.1 =
 * Minor Bugs Fixed.
 
