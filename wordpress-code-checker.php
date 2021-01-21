@@ -2,7 +2,7 @@
 
 	/**
 	 * @link         https://metinsarac.net/
-	 * @since        1.0.0
+	 * @since        1.1.1
 	 * @package      Wordpress_Code_Checker
 	 *
 	 * @wordpress-plugin
