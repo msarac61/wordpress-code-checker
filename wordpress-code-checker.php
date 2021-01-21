@@ -9,8 +9,8 @@
 	 *
 	 * Plugin Name:  Wordpress Code Checker
 	 * Plugin URI:   https://metinsarac.net/wcc-test/
-	 * Description:  Wordpress - Code Checker
-	 * Version:      1.0.0
+	 * Description:  Wordpress Secure Code Control System & Wordpress Security Code Checker
+	 * Version:      1.1.0
 	 * Author:       Metin Saraç
 	 * Author URI:   https://metinsarac.net/
 	 * License:      GPL-3.0+
