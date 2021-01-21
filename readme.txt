@@ -29,7 +29,7 @@ Live Preview : https://metinsarac.net/wcc-test/
 
 == Changelog ==
 
-= 1.1.1 =
+= 1.2 =
 * Added Automatic Code Generator.
 
 = 1.1 =
